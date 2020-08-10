@@ -86,7 +86,7 @@ class CardBerita extends StatelessWidget {
         ),
         child: Column(
           children: <Widget>[
-            Icon(icon, color: color, size: 25),
+            Icon(icon, color: color, size: 30),
             title,
           ],
         ),
